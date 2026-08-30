@@ -6,9 +6,7 @@
 [![Django](https://img.shields.io/badge/Django-6.0-green.svg)](https://djangoproject.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
----
 
-![Logo Image](./assets/images-for-readme/Logo.png)
 
 ---
 
