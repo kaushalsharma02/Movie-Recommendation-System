@@ -26,7 +26,7 @@ This project follows [Semantic Versioning](https://semver.org/) and the changelo
 
 ---
 
-## [2.0.0] - 2024-12-05
+
 
 ### 🎉 Complete Project Revamp
 
@@ -313,7 +313,7 @@ If you modified the original code:
 
 ## 🗺️ Future Roadmap
 
-### Version 2.1 (Planned - Q1 2025)
+### Version 2.1 (Planned - Q1 )
 - [ ] **User Authentication** - Register, login, profile management
 - [ ] **Personal Watchlists** - Save and organize movies
 - [ ] **Movie Ratings** - Rate movies and get personalized suggestions
@@ -321,7 +321,7 @@ If you modified the original code:
 - [ ] **Recommendation History** - Track past recommendations
 - [ ] **Export Features** - Export watchlists and recommendations
 
-### Version 2.2 (Planned - Q2 2025)
+### Version 2.2 (Planned - Q2 )
 - [ ] **Collaborative Filtering** - Combine with content-based filtering
 - [ ] **Social Features** - Share recommendations, follow users
 - [ ] **Movie Reviews** - Write and read reviews
@@ -340,8 +340,6 @@ If you modified the original code:
 - [ ] **AI Chat Assistant** - Conversational movie recommendations
 
 ---
-
-## [1.0.0] - 2022-XX-XX
 
 ### Initial Release
 
@@ -414,9 +412,7 @@ See changes you'd like to make? Contributions are welcome!
 ---
 
 <div align="center">
-
-**Last Updated:** December 5, 2024  
-**Current Version:** 2.0.0  
+  
 **Status:** Production Ready ✅
 
 [⬆ Back to Top](#changelog)
